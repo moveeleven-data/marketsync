@@ -1,7 +1,7 @@
-<h1 align="center">MarketSync: Portfolio Analytics & Modeling</h1>
+<h1 align="center">Marketsync: Portfolio Analytics & Modeling</h1>
 
 <p align="center">
-  Accurate, auditable portfolio insights delivered from raw positions using dbt and Snowflake.
+  Portfolio insights delivered from raw positions using dbt and Snowflake.
   <br/><br/>
 </p>
 
